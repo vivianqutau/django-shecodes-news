@@ -1,3 +1,3 @@
 # Plus Resources: Django Project Starter
 
-Starter code for the Plus Django project.
+This mini project built newspaper web pages using Django
